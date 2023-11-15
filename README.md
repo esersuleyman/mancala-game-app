@@ -5,7 +5,7 @@ For the Rules of the game visit following Wikipedia link: [https://en.wikipedia.
 ## Tech Stack
 * Java 17
 * Spring Boot & REST
-* Gradle
+* Gradle 7.3+
 * MongoDB
 * Docker
 * Spring AOP
