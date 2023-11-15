@@ -32,7 +32,8 @@ For the Rules of the game visit following Wikipedia link: [https://en.wikipedia.
 
 ### Docker
 The application contain docker file and run shell script as well so in the case if docker is running on your system. 
-You just need to run entry_point.sh file and application can be accessible on port 8080
+You just need to run entry_point.sh file and application can be accessible on port 8080.
+
 Shell script;
  - As a first step clean and build application, generates a jar.
  - Then creates a docker image for spring boot application.
